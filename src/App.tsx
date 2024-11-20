@@ -1,5 +1,4 @@
 import React, {useState, useEffect, useRef, SetStateAction} from "react";
-import Greeting from "./Greeting";
 import './todolist.css'
 
 interface Task {
